@@ -17,7 +17,7 @@
 Only the latest **5** articles are displayed here.
 
 <!--START_SECTION:posts-->
-* [Sakura Frp 使用常见问题](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;8tYaUDF47&#x2F;)
+* [良心云轻量特殊区域购买教程(已失效)](https://blog.loliat.com/post/23.html;)
 * [修改 Git 配置加速 clone GitHub 源码](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;5vwyjylHh&#x2F;)
 * [【补档】handsome 魔改教程：左侧边栏输出优化](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;Tqp-Gj-LY&#x2F;)
 * [自定义 git.io 短链接地址与绕过链接生成限制](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;oKnaKLcDb&#x2F;)
