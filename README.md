@@ -24,4 +24,4 @@ Only the latest **5** articles are displayed here.
 * [什么是 DDoS？如何使用 DDoS 提升群友网站速度？](https:&#x2F;&#x2F;baoshuo.blog&#x2F;post&#x2F;ObCitOBoi&#x2F;)
 <!--END_SECTION:posts-->
 
-**See more on [baoshuo.blog](https://baoshuo.blog).**
+**See more on [Loliat's Blog](https://blog.loliat.com).**
