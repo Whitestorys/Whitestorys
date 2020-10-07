@@ -4,7 +4,7 @@
   <a href="https://blog.loliat.com">Blog</a> •
   <a href="https://twitter.com/Whitestorys">Twitter</a> •
   <a href="https://github.com/Whitestorys">GitHub</a> •
-  <a href="https://gitee.com/Whitestorys">Gitee</a> •
+  <a href="https://gitee.com/Whitecolor">Gitee</a> •
   <a href="https://t.me/Whitestorys">Telegram</a>
 </p>
 
