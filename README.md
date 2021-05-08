@@ -17,10 +17,11 @@
 Only the latest **5** articles are displayed here.
 
 <!--START_SECTION:posts-->
+* [CloudFlare自选节点及信息查询](https://blog.loliat.com/post/28.html)
+* [使用SCF云函数全自动完成网易云每日任务](https://blog.loliat.com/post/27.html)
 * [良心云轻量特殊区域购买教程(已失效)](https://blog.loliat.com/post/23.html)
 * [目前主流图床程序的简单分析](https://blog.loliat.com/post/19.html)
 * [ Handsome魔改教程备份 ](https://blog.loliat.com/post/11.html)
-* [	网页变黑白教程](https://blog.loliat.com/post/9.html)
 <!--END_SECTION:posts-->
 
 **See more on [Loliat's Blog](https://blog.loliat.com).**
